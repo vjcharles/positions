@@ -1,0 +1,24 @@
+{
+  "name": "positions",
+  "main": "positions.js",
+  "version": "0.0.1",
+  "authors": [
+    "vjcharles"
+  ],
+  "description": "helper object for managing media times and offsets with a global timeline",
+  "keywords": [
+    "html5",
+    "media",
+    "position",
+    "position.js",
+    "position",
+    "management"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/vjcharles/positions",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "tests"
+  ]
+}
